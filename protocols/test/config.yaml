@@ -1,0 +1,11 @@
+name: Test
+icon: logo.png
+category: Money Market
+description: >-
+  Test protocol
+url: https://test.com/
+dataUrl: http://localhost:3333/data
+metadata:
+  pt: []
+  yt: []
+  lp: []
